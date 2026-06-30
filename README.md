@@ -331,7 +331,7 @@ Code: [MIT](./LICENSE)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:7b61ff,100:00ffa3&height=140&section=footer&animation=fadeIn" width="100%"/>
 
-**Built with 🎵 by [your-username](https://github.com/your-username)**
+**Built with 🎵 by [tiwariankit1708](https://github.com/tiwariankit1708)**
 
 *If this helped you, drop a ⭐ — it means a lot!*
 
